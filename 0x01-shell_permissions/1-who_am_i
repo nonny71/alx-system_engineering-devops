@@ -1,3 +1,2 @@
 #!/bin/bash
-whoami
-
+chown betty hello

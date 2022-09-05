@@ -1,2 +1,0 @@
-#!/bin/iiibash
-grep -n bin /etc/passwd

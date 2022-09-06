@@ -1,0 +1,6 @@
+tail -1 iacta >> iacta 
+
+
+git commit -mtwo file
+
+echo tail -1 iacta

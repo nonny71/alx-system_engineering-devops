@@ -1,0 +1,30 @@
+#!/bin/bash
+alias p=rm* >>0-alias
+cd 0x03-shell_variables_expansions
+git push
+git push
+git add .
+
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git commit -mhome
+echo alias p=rm*
